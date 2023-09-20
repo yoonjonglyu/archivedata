@@ -1,14 +1,20 @@
 [
   {
     "idx": 0,
-    "title": "memo"
+    "title": "memo",
+    "description": "크로스플랫폼 메모장 프로젝트",
+    "img": "undefined"
   },
   {
     "idx": 1,
-    "title": "chat"
+    "title": "chat",
+    "description": "채팅 SDK & API 프로젝트",
+    "img": "undefined"
   },
   {
     "idx": 2,
-    "title": "game"
+    "title": "game",
+    "description": "게임 IP 시스템 프로젝트",
+    "img": "undefined"
   }
 ]
