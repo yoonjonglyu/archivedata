@@ -1,10 +1,12 @@
 [
   {
     "idx": 0,
-    "title": "Tetris"
+    "title": "Tetris",
+    "description": "미니게임 테트리스"
   },
   {
     "idx": 1,
-    "title": "TextRPG"
+    "title": "TextRPG",
+    "description": "테스트 기반 로그라이크 RPG"
   }
 ]
